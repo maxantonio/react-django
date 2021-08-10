@@ -1,0 +1,11 @@
+venv
+*.pyc
+staticfiles
+.env
+__init__.py
+*.idea/
+/.idea
+/.idea/*
+.DS_Store
+frontend/node_modules
+frontend/npm-debug.log
